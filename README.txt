@@ -12,3 +12,7 @@ Live site: https://Taushin-sys.github.io
 
 ### Power BI
 - Data Professional Survey Breakdown
+
+### Python
+- Amazon Price Tracker (Web Scraping)
+- Cryptocurrency API Data Pull
